@@ -13,7 +13,7 @@ I'm currently working on my **engineering thesis**:
 > **Design and Implementation of a Microservices-Based Application Using a Task Flow Automation System**
 
 **Key areas:**  
-`Microservices Architecture` · `Task Flow Automation` · `Application Design & Implementation`
+`Microservices Architecture` · `Workflow Automation (n8n)` · `Application Design & Implementation`
 
 **API Integrations:**  
 `Spotify Web API` · `Ticketmaster Discovery API`
