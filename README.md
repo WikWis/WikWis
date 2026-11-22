@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Wiktor! 👋
 
-<!--
-**WikWis/WikWis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at **Częstochowa University of Technology**, Poland.
 
-Here are some ideas to get you started:
+I enjoy building software, learning new technologies, and working on projects that help me improve my programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏔️ Outside of programming, I'm a member of the **Polish Crown of Mountains Club (Klub Zdobywców Korony Gór Polski)** and enjoy hiking and exploring mountain trails.
+
+### 🎓 Current Focus: Engineering Thesis
+
+I'm currently working on my **engineering thesis**:
+
+> **Design and Implementation of a Microservices-Based Application Using a Task Flow Automation System**
+
+The main areas of this project include:
+
+- Microservices architecture
+- Task flow automation
+- Application design and implementation
+- Spotify API integration
+- Ticketmaster Discovery API integration
+
+### 🛠️ Technologies
+
+Some of the programming languages and frameworks I've worked with:
+
+- `Java` · `Spring Boot`
+- `C#` · `ASP.NET`
+- `JavaScript` · `TypeScript` · `NestJS`
+- `Astro Framework`
