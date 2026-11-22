@@ -12,13 +12,11 @@ I'm currently working on my **engineering thesis**:
 
 > **Design and Implementation of a Microservices-Based Application Using a Task Flow Automation System**
 
-The main areas of this project include:
+**Key areas:**  
+`Microservices Architecture` · `Task Flow Automation` · `Application Design & Implementation`
 
-- Microservices architecture
-- Task flow automation
-- Application design and implementation
-- Spotify API integration
-- Ticketmaster Discovery API integration
+**API Integrations:**  
+`Spotify Web API` · `Ticketmaster Discovery API`
 
 ### 🛠️ Technologies
 
